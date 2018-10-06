@@ -1,0 +1,27 @@
+body{
+	background: #E01010;
+}
+
+#header {
+	background: #FF0000;
+	text-align: center;
+	margin: 10px;
+	border: inset #555 2px;
+	padding: 25px;
+	font-size: 1.2em;
+}
+
+.content{
+	background: #10E010;
+	margin: 10px;
+	border: dotted 1px black;
+	padding: 25px;
+	height: 350px;
+	text-align: center;
+	font-style: italic;
+}
+
+.content .text{
+	color: purple;
+	font-size: 30px;
+}

@@ -1,0 +1,39 @@
+body {
+	background: yellow url('back_y.png');
+	min-width: 768px;
+}
+
+.header{
+	background-image: url('back_header.png');
+	background-repeat: repeat-x;
+	background-position: bottom;
+	font-family: 'Times New Roman', Times, Georgia, serif;
+	font-variant: small-caps;
+	font-size: 2.2em;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	min-height: 100px;
+}
+
+
+.header #user{
+	color: red;
+	font-variant: normal;
+	text-decoration: underline;
+}
+
+body .content{
+	background-image: url('back_y.png');
+	margin: 20% 40%;
+}
+
+body table td{
+	background-color: #0060FF;
+	min-width: 125px;
+	height: 50px;
+	text-align: center;
+	font-size: 1.8em;
+	border-radius: 27px;
+	border: outset 3px white;
+}

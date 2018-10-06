@@ -1,0 +1,20 @@
+body {
+	background-color: #FFD0D0; 
+	color: #C00000;
+}
+
+table {
+	margin: 10% 37%;
+	border-collapse: collapse;
+	background-color: #FFFFA0 ; 
+}
+
+td {
+	text-align: center;
+	color: #00A000;
+	font-style: italic;
+	font-size: 1.4em;
+	margin: 1px;
+	border: solid #FFFF00 2px;
+	padding: 5px;
+}
